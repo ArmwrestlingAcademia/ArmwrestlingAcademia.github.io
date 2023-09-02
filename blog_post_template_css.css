@@ -138,7 +138,7 @@ padding-bottom: 40px;
     display: flex;
     flex-direction: row;
     
-    background-color: var(--awa-soft-black);
+    background-color: black;
     padding-bottom: 5vh;
 }
 
